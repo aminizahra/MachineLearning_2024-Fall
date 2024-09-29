@@ -18,20 +18,20 @@ The repository is organized into the following directories:
   - [01_Mathematical_Foundations](Lecture/01_Mathematical_Foundations): Fundamental mathematical concepts needed for machine learning.
   - [02_Algebra_with_NumPy](Lecture/02_Algebra_with_NumPy): Introduction to algebra using NumPy.
   - [03_Introduction_to_MachineLearning](Lecture/03_Introduction_to_MachineLearning): Basics of machine learning and its applications.
-  - [04_Data_Preprocessing](Lecture/04_Data_Preprocessing): Techniques and tools for preprocessing data.
-  - [05_LinearRegression](Lecture/05_LinearRegression): Concepts and implementation of linear regression.
-  - [06_Polynomial_Regression](Lecture/06_Polynomial_Regression): Understanding and applying polynomial regression.
-  - [07_Logistic_Regression](Lecture/07_Logistic_Regression): Logistic regression for binary classification.
-  - [08_Gradient_Descent](Lecture/08_Gradient_Descent): Detailed study of the gradient descent optimization algorithm.
-  - [09_Manage_Overfitting](Lecture/09_Manage_Overfitting): Strategies to manage and prevent overfitting in models.
-  - [10_K-Nearest_Neighbors_KNN](Lecture/10_K-Nearest_Neighbors_KNN): K-Nearest Neighbors algorithm for classification.
-  - [11_Naive_Bayes_Classifier](Lecture/11_Naive_Bayes_Classifier): Introduction to the Naive Bayes classification technique.
-  - [12_Decision_Tree](Lecture/12_Decision_Tree): Concepts of decision trees and their implementation.
-  - [13_Support_Vector_Machines_SVM](Lecture/13_Support_Vector_Machines_SVM): Support Vector Machines for classification and regression tasks.
-  - [14_Dimensionality_Reduction_PCA](Lecture/14_Dimensionality_Reduction_PCA): Dimensionality reduction using Principal Component Analysis (PCA).
-  - [15_K-Means_Clustering](Lecture/15_K-Means_Clustering): K-Means clustering for unsupervised learning.
-  - [16_Hierarchical_Clustering](Lecture/16_Hierarchical_Clustering): Techniques and methods for hierarchical clustering.
-  - [17_DBSCAN](Lecture/17_DBSCAN): Density-Based Spatial Clustering of Applications with Noise (DBSCAN) for clustering.
+  - [04_Polynomial_Regression](Lecture/04_Polynomial_Regression): Understanding and applying polynomial regression.
+  - [0_Data_Preprocessing](Lecture/04_Data_Preprocessing): Techniques and tools for preprocessing data.
+  - [0_LinearRegression](Lecture/05_LinearRegression): Concepts and implementation of linear regression.
+  - [0_Logistic_Regression](Lecture/07_Logistic_Regression): Logistic regression for binary classification.
+  - [0_Gradient_Descent](Lecture/08_Gradient_Descent): Detailed study of the gradient descent optimization algorithm.
+  - [0_Manage_Overfitting](Lecture/09_Manage_Overfitting): Strategies to manage and prevent overfitting in models.
+  - [0_K-Nearest_Neighbors_KNN](Lecture/10_K-Nearest_Neighbors_KNN): K-Nearest Neighbors algorithm for classification.
+  - [0_Naive_Bayes_Classifier](Lecture/11_Naive_Bayes_Classifier): Introduction to the Naive Bayes classification technique.
+  - [0_Decision_Tree](Lecture/12_Decision_Tree): Concepts of decision trees and their implementation.
+  - [0_Support_Vector_Machines_SVM](Lecture/13_Support_Vector_Machines_SVM): Support Vector Machines for classification and regression tasks.
+  - [0_Dimensionality_Reduction_PCA](Lecture/14_Dimensionality_Reduction_PCA): Dimensionality reduction using Principal Component Analysis (PCA).
+  - [0_K-Means_Clustering](Lecture/15_K-Means_Clustering): K-Means clustering for unsupervised learning.
+  - [0_Hierarchical_Clustering](Lecture/16_Hierarchical_Clustering): Techniques and methods for hierarchical clustering.
+  - [0_DBSCAN](Lecture/17_DBSCAN): Density-Based Spatial Clustering of Applications with Noise (DBSCAN) for clustering.
 
 - **Project**: This folder is dedicated to the course projects. Each project will have its own subfolder containing the project description, code, and any related files.
 
