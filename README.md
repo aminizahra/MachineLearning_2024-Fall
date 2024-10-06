@@ -19,9 +19,9 @@ The repository is organized into the following directories:
   - [02_Algebra_with_NumPy](Lecture/02_Algebra_with_NumPy): Introduction to algebra using NumPy.
   - [03_Introduction_to_MachineLearning](Lecture/03_Introduction_to_MachineLearning): Basics of machine learning and its applications.
   - [04_Polynomial_Regression](Lecture/04_Polynomial_Regression): Understanding and applying polynomial regression.
-  - [0_Data_Preprocessing](Lecture/04_Data_Preprocessing): Techniques and tools for preprocessing data.
+  - [05_Logistic_Regression](Lecture/05_Logistic_Regression): Logistic regression for binary classification.
+  - [06_Data_Preprocessing](Lecture/06_Data_Cleaning): Techniques and tools for cleaning and preprocessing data.
   - [0_LinearRegression](Lecture/05_LinearRegression): Concepts and implementation of linear regression.
-  - [0_Logistic_Regression](Lecture/07_Logistic_Regression): Logistic regression for binary classification.
   - [0_Gradient_Descent](Lecture/08_Gradient_Descent): Detailed study of the gradient descent optimization algorithm.
   - [0_Manage_Overfitting](Lecture/09_Manage_Overfitting): Strategies to manage and prevent overfitting in models.
   - [0_K-Nearest_Neighbors_KNN](Lecture/10_K-Nearest_Neighbors_KNN): K-Nearest Neighbors algorithm for classification.
